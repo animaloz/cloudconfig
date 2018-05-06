@@ -1,4 +1,2 @@
-label: eureka-dev
-spring:
-  application:
-    name: eureka-dev
+server:
+  port: 8089
