@@ -1,1 +1,3 @@
 from: eureka-dev
+server:
+  port: 8089
