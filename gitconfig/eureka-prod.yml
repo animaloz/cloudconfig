@@ -1,0 +1,4 @@
+label: eureka-prod
+spring:
+  application:
+    name: eureka-prod
