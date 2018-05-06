@@ -1,0 +1,4 @@
+label: eureka-test
+spring:
+  application:
+    name: eureka-test

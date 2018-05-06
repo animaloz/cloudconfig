@@ -1,0 +1,4 @@
+label: eureka
+spring:
+  application:
+    name: eureka

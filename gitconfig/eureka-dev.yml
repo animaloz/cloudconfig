@@ -1,1 +1,4 @@
-eureka
+label: eureka-dev
+spring:
+  application:
+    name: eureka-dev
